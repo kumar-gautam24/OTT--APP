@@ -63,15 +63,4 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
 
 📱 **[Download APK](https://drive.google.com/file/d/18NXbx2JosiqxORRh8RR7ZXNly7_rvVGk/view?usp=sharing)**
 
-*Note: Download the APK file and install it on your Android device. Make sure to enable "Install from unknown sources" in your device settings.*
-
-## Assignment Details
-
-This app was built as a coding assignment with the following requirements:
-- 3-5 hours development time
-- Netflix-style home screen with carousels
-- Reels-style video player with vertical navigation
-- Clean code and responsive design
-- Android platform only
-
 ## Made by Gautam kumar <3
