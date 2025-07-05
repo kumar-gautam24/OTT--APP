@@ -50,27 +50,28 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
 
 ## Screenshots
 
-### Home Screen
-![Home Screen](screenshots/screenshot-1.png)
-
-### Video Player
-![Video Player](screenshots/screenshot-2.png)
-
-### App Navigation
-![App Navigation](screenshots/screenshot-3.png)
+| Home Screen | Video Player | App Navigation |
+|-------------|--------------|----------------|
+| ![Home Screen](screenshots/screenshot-1.png) | ![Video Player](screenshots/screenshot-2.png) | ![App Navigation](screenshots/screenshot-3.png) |
 
 ## Demo Videos
 
 ### App Demo
 [![App Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Code Walkthrough
-[![Code Walkthrough](https://img.youtube.com/vi/oHg5SJYRHA0/0.jpg)](https://www.youtube.com/watch?v=oHg5SJYRHA0)
-
 ## APK Download
 
 📱 **[Download APK](https://drive.google.com/file/d/18NXbx2JosiqxORRh8RR7ZXNly7_rvVGk/view?usp=sharing)**
 
 *Note: Download the APK file and install it on your Android device. Make sure to enable "Install from unknown sources" in your device settings.*
+
+## Assignment Details
+
+This app was built as a coding assignment with the following requirements:
+- 3-5 hours development time
+- Netflix-style home screen with carousels
+- Reels-style video player with vertical navigation
+- Clean code and responsive design
+- Android platform only
 
 ## Made by Gautam kumar <3
