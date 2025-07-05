@@ -52,12 +52,12 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
 
 | Home Screen | Video Player | App Navigation |
 |-------------|--------------|----------------|
-| ![Home Screen](screenshots/screenshot-1.png) | ![Video Player](screenshots/screenshot-2.png) | ![App Navigation](screenshots/screenshot-3.png) |
+| ![Home Screen](screenshots/screenshot-1.png) | [Home](screenshots/screenshot-2.png) | [Video Player](screenshots/screenshot-3.png) |
 
 ## Demo Videos
 
 ### App Demo
-[![App Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![App Demo]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtube.com/shorts/9q7iBUZ6fco))
 
 ## APK Download
 
