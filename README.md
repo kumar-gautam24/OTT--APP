@@ -60,11 +60,4 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
 
 [Add download link here]
 
-## Assignment Details
-
-This app was built as a coding assignment with the following requirements:
-- 3-5 hours development time
-- Netflix-style home screen with carousels
-- Reels-style video player with vertical navigation
-- Clean code and responsive design
-- Android platform only
+### Gautam kumar
