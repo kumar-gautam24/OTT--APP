@@ -57,7 +57,7 @@ APK location: `build/app/outputs/flutter-apk/app-release.apk`
 ## Demo Videos
 
 ### App Demo
-[![App Demo]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtube.com/shorts/9q7iBUZ6fco))
+[![App Demo](https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://youtube.com/shorts/9q7iBUZ6fco)])
 
 ## APK Download
 
