@@ -1,16 +1,63 @@
-# ott
+# Flutter OTT App
 
-A new Flutter project.
+A video streaming app for Android with Netflix-style UI and reels-like video navigation.
+
+## Features
+
+**Home Screen**
+- Horizontal carousels with video thumbnails
+- Multiple categories (Trending, Movies, Web Series)
+- Tap thumbnail to play video
+
+**Video Player**
+- Full-screen video playback
+- Vertical swipe to next video (like reels)
+- Auto-play functionality
+- Basic playback controls
+
+## Tech Stack
+
+- Flutter
+- better_player package for video playback
+- flutter_bloc for state management
+- Mock JSON data (no API calls)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repo
+```bash
+git clone https://github.com/yourusername/flutter-ott-app.git
+cd flutter-ott-app
+```
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies
+```bash
+flutter pub get
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app
+```bash
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Build APK
+
+```bash
+flutter build apk --release
+```
+
+APK location: `build/app/outputs/flutter-apk/app-release.apk`
+
+## Screenshots
+
+[Add screenshots here]
+
+## Demo Video
+
+[Add YouTube link here]
+
+## APK Download
+
+[Add download link here]
+
+### Gautam kumar
